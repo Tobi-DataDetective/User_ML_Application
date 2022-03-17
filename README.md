@@ -1,5 +1,5 @@
 # User_ML_Application
-An User interface application to help predict Cancer, Diabetes and Customer Churning using machine learning algorithms.
+A User interface application to helps predict Cancer, Diabetes and Customer Churning using machine learning algorithms.
 
 Deployment of app not yet available but if you would like to run this and test the application follow the following steps below:
 1. Clone the application to a folder on your desktop
